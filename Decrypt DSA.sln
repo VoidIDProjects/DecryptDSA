@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decrypt DSA", "Decrypt DSA\Decrypt DSA.csproj", "{3C55F121-172B-4FC0-90F8-11D4122463A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C55F121-172B-4FC0-90F8-11D4122463A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C55F121-172B-4FC0-90F8-11D4122463A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C55F121-172B-4FC0-90F8-11D4122463A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C55F121-172B-4FC0-90F8-11D4122463A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C9403BC-CBF5-4264-92B4-4D2A433907AE}
+	EndGlobalSection
+EndGlobal
